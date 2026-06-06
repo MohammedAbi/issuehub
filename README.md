@@ -83,7 +83,7 @@ IssueHub is a full-stack issue tracking application that allows users to create,
 ```
 
 issuehub/
-├── client/ # React frontend
+├── client/
 │ ├── src/
 │ │ ├── components/
 │ │ ├── pages/
