@@ -80,6 +80,7 @@ IssueHub is a full-stack issue tracking application that allows users to create,
 | tsx        | 4.22.4  | TypeScript Runtime |
 
 ## 📁 Folder Structure
+```
 
 issuehub/
 ├── client/ # React frontend
@@ -112,6 +113,7 @@ issuehub/
 │
 ├── .gitignore # Git ignore file
 └── README.md # Project documentation
+```
 
 ## 🚀 Setup Instructions
 
