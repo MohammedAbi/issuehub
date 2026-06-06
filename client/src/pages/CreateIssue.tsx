@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { getToken } from "../utils/token";
 
-const API_URL = "http://localhost:5001";
+const API_URL = "https://issuehub-tzk7.onrender.com";
 
 export default function CreateIssue() {
   const navigate = useNavigate();
