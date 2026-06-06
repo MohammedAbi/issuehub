@@ -1,6 +1,6 @@
 # 🐛 IssueHub – Issue Tracking Platform
 
-![IssueHub](<img width="1510" height="901" alt="Image" src="https://github.com/user-attachments/assets/41f9b198-60c0-4455-9904-ec8bb5ee0890" />)
+![IssueHub](https://github.com/user-attachments/assets/41f9b198-60c0-4455-9904-ec8bb5ee0890)
 
 
 A modern issue tracking platform with authentication, role-based access, and real-time updates.
