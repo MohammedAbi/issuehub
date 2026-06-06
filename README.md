@@ -182,7 +182,7 @@ JWT_SECRET=your_super_secret_jwt_key_here
 ```
 
 ## API Endpoints
-
+```
 Method Endpoint Description Auth Required
 POST /api/auth/register Register new user ❌
 POST /api/auth/login Login user ❌
@@ -191,7 +191,7 @@ POST /api/issues Create new issue ✅
 PUT /api/issues/:id Update issue ✅
 DELETE /api/issues/:id Delete issue ✅
 GET /api/users/profile Get user profile ✅
-
+```
 ## Test Users
 
 Email and password
