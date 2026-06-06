@@ -85,34 +85,34 @@ IssueHub is a full-stack issue tracking application that allows users to create,
 issuehub/
 ├── client/ # React frontend
 │ ├── src/
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # Page components
-│ │ ├── hooks/ # Custom React hooks
-│ │ ├── services/ # API services
-│ │ ├── types/ # TypeScript definitions
-│ │ ├── utils/ # Utility functions
-│ │ ├── App.tsx # Main app component
-│ │ └── main.tsx # Entry point
-│ ├── public/ # Static assets
-│ ├── index.html # HTML template
-│ ├── package.json # Dependencies
-│ ├── vite.config.ts # Vite configuration
-│ └── tsconfig.json # TypeScript configuration
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── hooks/
+│ │ ├── services/
+│ │ ├── types/
+│ │ ├── utils/
+│ │ ├── App.tsx
+│ │ └── main.tsx
+│ ├── public/
+│ ├── index.html
+│ ├── package.json
+│ ├── vite.config.ts
+│ └── tsconfig.json
 │
-├── server/ # Express backend
+├── server/
 │ ├── src/
-│ │ ├── models/ # Database models
-│ │ ├── controllers/ # Route controllers
-│ │ ├── routes/ # API routes
-│ │ ├── middleware/ # Custom middleware
-│ │ ├── config/ # Configuration files
-│ │ └── server.ts # Server entry point
-│ ├── dist/ # Compiled output
-│ ├── package.json # Dependencies
-│ └── tsconfig.json # TypeScript configuration
+│ │ ├── models/
+│ │ ├── controllers/
+│ │ ├── routes/
+│ │ ├── middleware/
+│ │ ├── config/
+│ │ └── server.ts
+│ ├── dist/
+│ ├── package.json
+│ └── tsconfig.json
 │
-├── .gitignore # Git ignore file
-└── README.md # Project documentation
+├── .gitignore
+└── README.md
 ```
 
 ## 🚀 Setup Instructions
